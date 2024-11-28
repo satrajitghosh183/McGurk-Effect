@@ -1,6 +1,3 @@
-###  Testing the McGurk Effect in Multimodal Machine Learning Models
-
----
 
 #### **Project Title**
 Testing the McGurk Effect in Multimodal Machine Learning Models
@@ -32,32 +29,6 @@ This project investigates the susceptibility of multimodal machine learning mode
 
 ---
 
-#### **Setup and Usage**
-1. **Dataset:** 
-   - GRID Audiovisual Sentence Corpus: Pre-processed audio and video samples.
-   - Cohesive, mismatched, and adversarial datasets generated for evaluation.
-2. **Requirements:**
-   - Python 3.8 or above
-   - Required libraries: TensorFlow/PyTorch, OpenCV, DLib, NumPy, SciPy
-   - Visualization tools: Matplotlib
-3. **Installation:**
-   - Clone the repository: 
-     ```bash
-     git clone https://github.com/your-repo-url
-     ```
-   - Install dependencies:
-     ```bash
-     pip install -r requirements.txt
-     ```
-4. **Running the Model:**
-   - Train the models:
-     ```bash
-     python train.py --model [model_name] --dataset [dataset_path]
-     ```
-   - Evaluate the models:
-     ```bash
-     python evaluate.py --model [model_name] --dataset [dataset_path]
-     ```
 
 ---
 
